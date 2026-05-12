@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+.delta/
+delta/
+*.crc
+.DS_Store
+
+export_powerbi/categorias/
+export_powerbi/estado_pedidos/
+export_powerbi/kpis_generales/
+export_powerbi/paises/
+export_powerbi/top_productos/
+export_powerbi/ventas_mensuales/
+*.pbix.lock

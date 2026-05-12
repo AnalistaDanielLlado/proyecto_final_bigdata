@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Electronics",
+    "marketing_channel": "Instagram",
+    "campaign_cost": 8500,
+    "target_country": "United States"
+  },
+  {
+    "category": "Clothing",
+    "marketing_channel": "TikTok",
+    "campaign_cost": 6200,
+    "target_country": "United Kingdom"
+  },
+  {
+    "category": "Home & Kitchen",
+    "marketing_channel": "Google Ads",
+    "campaign_cost": 7300,
+    "target_country": "Germany"
+  },
+  {
+    "category": "Beauty",
+    "marketing_channel": "Facebook Ads",
+    "campaign_cost": 4100,
+    "target_country": "France"
+  },
+  {
+    "category": "Sports",
+    "marketing_channel": "YouTube",
+    "campaign_cost": 5600,
+    "target_country": "Spain"
+  },
+  {
+    "category": "Electronics",
+    "marketing_channel": "Instagram",
+    "campaign_cost": 8500,
+    "target_country": "United States"
+  },
+  {
+    "category": null,
+    "marketing_channel": "TikTok",
+    "campaign_cost": 3000,
+    "target_country": "Italy"
+  },
+  {
+    "category": "Toys",
+    "marketing_channel": null,
+    "campaign_cost": "error_cost",
+    "target_country": "Canada"
+  }
+]
