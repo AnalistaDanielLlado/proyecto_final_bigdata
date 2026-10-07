@@ -263,7 +263,7 @@ El dashboard incluye:
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/AnalistaDanielLlado/proyecto_final_bigdata_scala.git
+git clone https://github.com/AnalistaDanielLlado/proyecto_final_bigdata.git
 ```
 
 ---
